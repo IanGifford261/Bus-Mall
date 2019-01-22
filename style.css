@@ -21,7 +21,10 @@ header h1 {
     
 }
 
-main img {
+ul img {
+    width: 200px;
+    
+    height: auto;
     display: inline-block;
     float: left;
     margin: 0px auto;
@@ -36,3 +39,4 @@ footer {
     float: left;
     
 }
+
