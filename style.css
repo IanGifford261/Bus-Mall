@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+html {
+    background-color: darkblue;
+    color: white;
+}
+
+header h1 {
+    width: 960px;
+    height: 100px;
+    
+    margin: 0px auto;
+    border-bottom: 20px groove grey;
+    margin-bottom: 35px;
+    margin-top: 20px;
+   
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+main img {
+    display: inline-block;
+    float: left;
+    margin: 0px auto;
+    padding: 15px;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    border: 5px groove blanchedalmond;
+}
+
+footer {
+    display: inline-block;
+    float: left;
+    
+}
