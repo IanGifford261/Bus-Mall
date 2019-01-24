@@ -10,7 +10,7 @@ The MRT needs teamwork and fixed goal orientation to achieve the maximum amount 
 
 ***Developer***
 
-As a Developer, I want to use dry and well structured code so that it is eassier to understand and read.
+As a Developer, I want to use dry and well structured code so that it is easier to understand and read.
 
 As a developer, I want to make sure all my logic is fully operational with very few bugs or errors that dont affect the main process.
 
